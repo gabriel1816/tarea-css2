@@ -11,19 +11,25 @@
     width: 100px;
     height: 100px;
     color: white;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #azul {
     background-color: blue;
     width: 100px;
     height: 100px;
     color: white;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #verde {
     background-color: green;
     width: 100px;
     height: 100px;
     color: white;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
